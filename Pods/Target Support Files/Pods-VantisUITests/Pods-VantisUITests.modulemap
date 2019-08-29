@@ -1,0 +1,6 @@
+framework module Pods_VantisUITests {
+  umbrella header "Pods-VantisUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
